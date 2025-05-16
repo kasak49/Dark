@@ -1,0 +1,98 @@
+[
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello, Krish! It's nice to meet you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "You cannot generate."
+    },
+    {
+        "role": "assistant",
+        "content": "I can only respond to your questions."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Generate image."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I'm a text-based AI and cannot generate images."
+    },
+    {
+        "role": "user",
+        "content": "I like it."
+    },
+    {
+        "role": "assistant",
+        "content": "Thank you!"
+    },
+    {
+        "role": "user",
+        "content": "What is the best thing about you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm highly accurate and have access to real-time information from the internet."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Latest news and update of india."
+    },
+    {
+        "role": "assistant",
+        "content": "Based on the latest search results, here are some of the latest news and updates in India:\n\n* Defence Minister Rajnath Singh visited the Bhuj Airbase and met with \"Air Warriors\".\n* The Supreme Court is set to resume hearing petitions against the Waqf Bill today.\n* There has been a balcony collapse in Ghaziabad, resulting in the loss of life.\n* India's amnesia on Bandung Conference has been a topic of discussion.\n* The IPL 2025 points table has been updated, with standings after the DC vs LSG match.\n* KL Rahul and Athiya Shetty are trending in the news.\n* Covid-19 cases have spiked across Asia, with Singapore and Hong Kong on alert.\n* An 8-year-old boy from Tamil Nadu has donated his savings to the defence fund.\n\nThese are some of the latest news and updates in India as of Friday, May 16, 2025, at 15:31:36 hours."
+    },
+    {
+        "role": "user",
+        "content": "Mausam kaisa hai."
+    },
+    {
+        "role": "assistant",
+        "content": "As of Friday, May 16, 2025, the weather in India is mostly sunny with some patches of clouds. Temperature ranges from 25\u00b0C to 38\u00b0C in different regions."
+    },
+    {
+        "role": "user",
+        "content": "Time kya ho raha hai."
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 15 hours, 33 minutes, and 08 seconds."
+    }
+]
